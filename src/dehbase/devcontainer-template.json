@@ -1,0 +1,12 @@
+{
+    "id": "dehbase",
+    "version": "1.0.0",
+    "name": "DehBase",
+    "description": "My base dev environment",
+    "documentationURL": "https://github.com/dehroox/devcontainers/tree/main/src/dehbase",
+    "licenseURL": "https://github.com/dehroox/devcontainers/blob/main/LICENSE",
+    "options": {},
+    "platforms": [
+        "Any"
+    ]
+}
