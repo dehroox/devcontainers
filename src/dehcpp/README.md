@@ -1,7 +1,7 @@
 
-# DehBase (dehbase)
+# DehCPP (dehcpp)
 
-My base dev environment
+My base dev environment for C++/C development
 
 ## Options
 
@@ -13,4 +13,4 @@ My base dev environment
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/dehroox/devcontainers/blob/main/src/dehbase/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/dehroox/devcontainers/blob/main/src/dehcpp/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
