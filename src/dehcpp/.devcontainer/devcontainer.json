@@ -1,0 +1,12 @@
+{
+	"name": "DehBase",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/zsh"
+	},
+
+	"postCreateCommand": "cp .devcontainer/.zshrc $HOME && cp -r .devcontainer/.zsh $HOME",
+}
